@@ -1,0 +1,31 @@
+# Swap files
+*.swo
+*.swp
+
+# Class files
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+.classpath
+.settings
+.prefs
+.project
+
+# Anything in Target
+target/
+
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
